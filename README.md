@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carpediee
+- 👋 Hi, I’m @Dzuro
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning cumputer science
 - 💞️ I’m looking to collaborate on team projects
