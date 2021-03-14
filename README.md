@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Carpediee
-- 👀 I’m interested in tehnology
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning cumputer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on team projects
+- 📫 How to reach me: send an email
 
 <!---
 Carpediee/Carpediee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
