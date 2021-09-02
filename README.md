@@ -13,7 +13,7 @@
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=carpediee&color=blue&style=flat-square" alt="carpediee profile views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=carpediee&color=blue&style=plastic" alt="carpediee profile views" />
 </p>
 
 - 👀 I’m interested in technology
