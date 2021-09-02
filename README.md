@@ -18,9 +18,9 @@
 
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning informatics
-- 💞️ I’m looking to new open-source project
+- 💞️ I’m looking to testing new open-source project
 - 📫 How to reach me: send an email
-- ⚡ Fun fact: A programer who doesn't like coffee.
+- ⚡ Fun fact: A programer who doesn't like coffee
 
 <!---
 Carpediee/Carpediee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
