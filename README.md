@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @Dzuro
+<p align="center">
+  <h3 align="center">Hi 👋, I'm Dzuro</h3>
+</p>
+
+<p align="center">
+    <a href="https://carpediee.github.io">About Me</a>
+    |
+    <a href="mailto:carpediee@protonmail.com">Email</a>      
+</p>
+
+<p align="center">
+  <h4 align="center">diplomirani inženir elektrotehnike, Slovenija</h4>
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=carpediee&color=blue&style=flat-square" alt="carpediee profile views" />
+</p>
+
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning cumputer science
-- 💞️ I’m looking to collaborate on team projects
+- 🌱 I’m currently learning informatics
+- 💞️ I’m looking to new open-source project
 - 📫 How to reach me: send an email
+- ⚡ Fun fact: A programer who doesn't like coffee.
 
 <!---
 Carpediee/Carpediee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
