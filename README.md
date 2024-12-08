@@ -2,11 +2,7 @@
   <h3 align="center">Hi 👋, I'm Dzuro</h3>
 </p>
 
-<p align="center">
-    <a href="https://carpediee.github.io">About Me</a>
-    |
-    <a href="mailto:carpediee@protonmail.com">Email</a>      
-</p>
+
 
 <p align="center">
   <h4 align="center">diplomirani inženir elektrotehnike, Slovenija</h4>
